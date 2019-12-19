@@ -14,7 +14,7 @@ class Tnode{
     }
 }
 
-class AVL{
+class AVLTrees{
     static Tnode root=null;
     static BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
     public static void main(String A[]) throws Exception{
